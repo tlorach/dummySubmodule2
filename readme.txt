@@ -6,3 +6,5 @@ change 2 from dummy2
 change 2 from master (merged)
 change 3 from master (merged)
 change 1 from SUBMODULE in test !
+change 2 from SUBMODULE in test without upstream
+
