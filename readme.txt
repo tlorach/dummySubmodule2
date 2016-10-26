@@ -8,3 +8,4 @@ change 3 from master (merged)
 change 1 from SUBMODULE in test !
 change 2 from SUBMODULE in test without upstream
 
+Change 3:23 10/26 made in testSubmodule
