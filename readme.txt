@@ -1,11 +1,7 @@
-submod 2 4
-branch: test
-modification 1 from dummySubmodule2
-Change 1 from master (merged)
-change 2 from dummy2
-change 2 from master (merged)
-change 3 from master (merged)
-change 1 from SUBMODULE in test !
-change 2 from SUBMODULE in test without upstream
+submod 2 3
+Change 1 from master
+change 2 from master
+change 3 from master
+change 4 from master
 
-Change 3:23 10/26 made in testSubmodule
+Change from master 3:25 10/26
