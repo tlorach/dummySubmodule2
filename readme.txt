@@ -27,3 +27,4 @@ Change from submodule2 at 3:45
 Change from submodule2 at 4:02
 Change from submodule2 at 4:13
 Change made from test dummySubmodule2 4:34
+Change from submodule2 at 4:51
